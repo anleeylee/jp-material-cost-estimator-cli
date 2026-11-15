@@ -1,0 +1,4 @@
+item_id,kind,description,qty,unit_price_yen,price_tax_basis,snapshot_ref,occupation_key,prefecture,hours,shipping_cost_yen
+M01,material,ニッペ パーフェクトトップSi ND-370 15kg,2,,,PRC-004,,,,,
+M02,material,利用者入力の壁紙,20,1200,tax_excluded,,,,,500
+L01,labor,タイル張り,,,,,tile,東京都,8,

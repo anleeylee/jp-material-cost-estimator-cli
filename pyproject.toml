@@ -1,0 +1,5 @@
+[project]
+name = "jp-material-cost-estimator-cli"
+version = "1.0.0"
+description = "Offline Japanese construction estimate workbook: material snapshots, labor unit rates, 10% consumption tax, provenance labels. https://sumaitools.com/"
+requires-python = ">=3.10"
