@@ -52,6 +52,7 @@ jp-material-cost-estimator-cli/
 │   └── labor_rates_long.csv
 ├── examples/estimate_sample.csv
 ├── tests/
+├── index.html
 ├── README.md
 ├── LICENSE
 ├── CONTRIBUTING.md
